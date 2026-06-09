@@ -1,3 +1,37 @@
+/** 
+ * @mainpage Documentation Circular Queues
+ * 
+ * @section Introduction
+ * Project ini merupakan project struktur data
+ * menggunakan struktur data queue dengan pendekatan circular
+ * 
+ * @section Operations
+ * Project ini memiliki beberapa operasi antara lain:
+ * 1. Insert
+ * 2. Delete
+ * 3. Display
+ * 
+ * @section Cara Penggunaan
+ * Berikut beberapa menu yang bisa digunakan:
+ * 1. en queue
+ * 2. de queue
+ * 3. display
+ * 4. exit
+ * 
+ * @author Profil
+ * - nama   : Araya Kalindra Abimanyu
+ * - nim    : 20250140054
+ * - kelas  : B
+ * 
+ * @brief
+ * @version 1.0
+ * @date 2026-06-09
+ * 
+ * @copyright araya.kalindra.ft25@mail.umy.ac.id (c) 2026 
+ * 
+*/
+
+
 #include <iostream>
 using namespace std;
 
